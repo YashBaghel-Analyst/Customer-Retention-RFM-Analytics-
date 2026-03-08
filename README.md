@@ -1,6 +1,6 @@
 # Customer-Retention-RFM-Analytics-
 
-### 1. Customer-Retention-RFM-Analytics-
+### 1. NovaMart Dashboard
 A dynamic, interactive data visualization tool built to explore e-commerce customer behavior—focusing on RFM segmentation, revenue trends, and operational bottlenecks.
 
 ### 2. Short Description 
@@ -45,10 +45,10 @@ To engineer an end-to-end data pipeline to clean the raw data, isolate the root 
 ### 6. Screenshots / Demos
 
 Page 1: Executive Sales Overview
-![Executive Overview](Link_to_your_Page1_image.png)
+![Executive Overview] https://github.com/YashBaghel-Analyst/Customer-Retention-RFM-Analytics-/blob/main/Page%201%20Executive%20Overview.png
 
 Page 2: RFM Customer Segmentation
-![RFM Segmentation](Link_to_your_Page2_image.png)
+![RFM Segmentation] https://github.com/YashBaghel-Analyst/Customer-Retention-RFM-Analytics-/blob/main/Page%202%20RFM%20Customer%20Segmentation.png
 
 Page 3: Operational Insights
-![Operational Insights](Link_to_your_Page3_image.png)
+![Operational Insights] https://github.com/YashBaghel-Analyst/Customer-Retention-RFM-Analytics-/blob/main/Page%203%20Operational%20Insights.png
