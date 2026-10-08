@@ -133,21 +133,21 @@ The report is structured into three specialized pages connected by **Synchronize
 ### Page 1: Executive Sales Overview
 Provides high-level monitoring of Total Revenue (~$16M), Total Orders, Unique Customers (~96K), Average Order Value (AOV), seasonal revenue trends, and regional demand distribution.
 
-![Executive Overview](https://github.com/YashBaghel-Analyst/Customer-Retention-RFM-Analytics-/blob/main/Page%201%20Executive%20Overview.png)
+![Executive Overview]([https://github.com/YashBaghel-Analyst/Customer-Retention-RFM-Analytics-/blob/main/Page%201%20Executive%20Overview.png](https://github.com/YashBaghel-Analyst/Customer-Retention-RFM-Analytics-/blob/main/ScreenShot_Dashboard_Page_1.PNG))
 
 ---
 
 ### Page 2: RFM Customer Segmentation
 Features interactive DAX segmentation buttons alongside the **RFM Export Matrix (Table Visual)**—displaying individual `customer_unique_id`, Recency, Frequency, and Monetary metrics so marketing teams can right-click and export targeted customer lists for email campaigns.
 
-![RFM Segmentation](https://github.com/YashBaghel-Analyst/Customer-Retention-RFM-Analytics-/blob/main/Page%202%20RFM%20Customer%20Segmentation.png)
+![RFM Segmentation]([https://github.com/YashBaghel-Analyst/Customer-Retention-RFM-Analytics-/blob/main/Page%202%20RFM%20Customer%20Segmentation.png](https://github.com/YashBaghel-Analyst/Customer-Retention-RFM-Analytics-/blob/main/ScreenShot_Dashboard_Page_2.PNG))
 
 ---
 
 ### Page 3: Operational Insights
 Highlights post-purchase logistics and product satisfaction, featuring the **Avg. Review Score by Delivery Speed (Binned Bar Chart)** (proving the drop from **4.41 to 2.37** after 21 days), the **Review Score Distribution (Column Chart)** (**4.09/5** baseline), and category-level quality rankings.
 
-![Operational Insights](https://github.com/YashBaghel-Analyst/Customer-Retention-RFM-Analytics-/blob/main/Page%203%20Operational%20Insights.png)
+![Operational Insights]([https://github.com/YashBaghel-Analyst/Customer-Retention-RFM-Analytics-/blob/main/Page%203%20Operational%20Insights.png](https://github.com/YashBaghel-Analyst/Customer-Retention-RFM-Analytics-/blob/main/ScreenShot_Dashboard_Page_3.PNG))
 
 ---
 
