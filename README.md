@@ -168,4 +168,12 @@ Highlights post-purchase logistics and product satisfaction, featuring the **Avg
 
 The **NovaMart Customer Retention & RFM Analytics** project bridges the gap between raw database engineering and executive decision-making. By resolving multi-table aggregation anomalies in **PostgreSQL** and building a dynamic **Power BI Star Schema**, the analysis disproved the assumption that NovaMart's 97% churn was a platform-wide service failure (**4.09/5 CSAT**). Instead, it isolated the exact logistical breaking point (**21+ days shipping dropping ratings from 4.41 to 2.37**) and equipped the marketing organization with a self-serve **RFM Export Matrix** to systematically turn one-time shoppers into repeat, high-lifetime-value customers.
 
+### 12. Contact
+If you have any questions about this project or would like to discuss data and product analytics opportunities, feel free to reach out.
+
+Yash Baghel
+
+LinkedIn:[ (https://www.linkedin.com/in/yash-baghel-linkdin/?isSelfProfile=true)](https://www.linkedin.com/in/yash-baghel-linkdin/?isSelfProfile=true)
+
+Email: yashbaghel47z@gmail.com
 
